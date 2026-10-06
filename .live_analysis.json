@@ -1,1 +1,1 @@
-{"risk_score": 60, "risk_level": "HIGH RISK", "violations": ["Helmet Missing", "Goggles Missing"], "detected_classes": ["no_helmet", "person", "no_goggle"], "worker_names": ["Unknown"]}
+{"risk_score": 0, "risk_level": "SAFE", "violations": [], "detected_classes": [], "worker_names": []}

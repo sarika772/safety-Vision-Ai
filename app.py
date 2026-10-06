@@ -18,7 +18,7 @@ from ultralytics import YOLO
 from streamlit_webrtc import webrtc_streamer, VideoTransformerBase
 from risk_engine import calculate_risk
 from voice_alert import speak
-
+from streamlit_geolocation import streamlit_geolocation
 
 # =========================================================
 # VOICE ALERT SETTINGS

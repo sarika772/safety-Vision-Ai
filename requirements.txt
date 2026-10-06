@@ -1,4 +1,8 @@
+streamlit
 ultralytics>=8.3
-opencv-python>=4.10
+opencv-python-headless>=4.10
 PyYAML>=6.0
 pyttsx3>=2.90
+numpy
+streamlit-webrtc
+streamlit-geolocation
